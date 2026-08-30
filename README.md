@@ -11,7 +11,9 @@
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Gaurav Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🌐 Socials:
+## 🔗 I am a Content Creator. 😊😊
+
+Stay updated with the latest tutorials and projects by subscribing to my Instagram channel and following on Instagram
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code_with_gaurav_kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gaurav Kumar) 
 
 # 💻 Tech Stack:
