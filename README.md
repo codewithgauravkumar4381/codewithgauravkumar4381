@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Gaurav Kumar
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Web Development**
 
  Collaboration/Project or Anything Else. 😊😊
 
